@@ -1,0 +1,13 @@
+C:\Users\Massil\source\repos\WeatherApplication\WeatherApplication\bin\Debug\WeatherApplication.exe.config
+C:\Users\Massil\source\repos\WeatherApplication\WeatherApplication\bin\Debug\WeatherApplication.exe
+C:\Users\Massil\source\repos\WeatherApplication\WeatherApplication\bin\Debug\WeatherApplication.pdb
+C:\Users\Massil\source\repos\WeatherApplication\WeatherApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Massil\source\repos\WeatherApplication\WeatherApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Massil\source\repos\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csproj.AssemblyReference.cache
+C:\Users\Massil\source\repos\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.Form1.resources
+C:\Users\Massil\source\repos\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.Properties.Resources.resources
+C:\Users\Massil\source\repos\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csproj.GenerateResource.cache
+C:\Users\Massil\source\repos\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csproj.CoreCompileInputs.cache
+C:\Users\Massil\source\repos\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csproj.CopyComplete
+C:\Users\Massil\source\repos\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.exe
+C:\Users\Massil\source\repos\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.pdb
